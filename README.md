@@ -24,8 +24,13 @@ Lectures make up a significant part of our classes and are important to get righ
 + Pause for synthesis at various points in the lecture:
 What is this? Why is this important? Why did we do it like this? Can you summarize this? How could we add to it?
 +Summarize before each break and at the end of the day
-	+$2 Summarizer With each word worth 10 cents, write a $2 summary of the learning from the
-lesson
+	+$2 Summarizer: With each word worth 10 cents, write a $2 summary of the learning from the
+lesson. Optional to include key vocab students must use (string, datatype, float). (or you can have them write a haiku, a poem etc)
+	+Aha! and Huh?: On notecards, students write one "Aha!" moment they had and one "Huh?" thing they need to work on that night. (Be sure to address the common Huh theme during the next class).
+	+Quick Talk: Students move around the room until you say stop. They high five with someone next to them and are now a pair. If you are the partner who lives the farthest from Flatiron you are Partner A. Partner A. Take 30 seconds to explain (key point 1). Partner B, explain (keypoint 2). Everyone find a new partner. Partner A is the person who has the closest birthday to today. Partner A, share one thing that still confuses you. Partner B offer any advice.
+	+Error Analysis: Show an code with an error on the board. Students have two minutes to figure out a. what the error is and b. how to fix it
+	+The Three Minute 3: Minute 1 - in groups summarize the key points in their own words. Minute 2- in groups discuss their own ideas about the key points. Students should write their own connections and thoughts (This reminds me of, one way I remember this, this relates to another topic by) Minute 3 -Students should list questions they still have or concepts they are still unclear about
+
 
 + Check out [this great resource from Carnegie Mellon University](http://www.cmu.edu/teaching/designteach/teach/instructionalstrategies/lectures.html)
 
