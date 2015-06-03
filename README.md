@@ -30,6 +30,7 @@ lesson. Optional to include key vocab students must use (string, datatype, float
 	+Quick Talk: Students move around the room until you say stop. They high five with someone next to them and are now a pair. If you are the partner who lives the farthest from Flatiron you are Partner A. Partner A. Take 30 seconds to explain (key point 1). Partner B, explain (keypoint 2). Everyone find a new partner. Partner A is the person who has the closest birthday to today. Partner A, share one thing that still confuses you. Partner B offer any advice.
 	+Error Analysis: Show an code with an error on the board. Students have two minutes to figure out a. what the error is and b. how to fix it
 	+The Three Minute 3: Minute 1 - in groups summarize the key points in their own words. Minute 2- in groups discuss their own ideas about the key points. Students should write their own connections and thoughts (This reminds me of, one way I remember this, this relates to another topic by) Minute 3 -Students should list questions they still have or concepts they are still unclear about
+	+Converation Competion (for vocab heavy labs)- Give students a list of 5-7 words to talk about. In pairs, have them stand. They check off their list during their conversation and sit down when they are done. After a few minutes, go through the list whole-class and have any pairs that were seating share how they used a specific word.
 
 
 + Check out [this great resource from Carnegie Mellon University](http://www.cmu.edu/teaching/designteach/teach/instructionalstrategies/lectures.html)
