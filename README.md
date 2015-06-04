@@ -6,6 +6,7 @@ Lectures make up a significant part of our classes and are important to get righ
 
 + The energy you put in to a lecture determines the energy you get back from your students. Come in fresh!
 + Read over the ‘script’ a few times in the days leading up to the lecture. Some teachers find it helpful to take separate notes that will guide them, as opposed to only sticking to the longer script.
++ Walk throught the curriculum with someone else - a fellow teacher maybe!
 + Practice/Hone the ‘hook’ : What is the thing that’s going to make this lesson relevant/interesting? Like a good storyteller, is there a way you can grab the students’ attention early on?
 + Unless students are following along (code-along style), encourage students to go “half-mast” with their laptops, to encourage students to focus.
 + Try to vary the interactivity of your lecture. You shouldn’t go more than 8-10 minutes without taking a break for students to stop and try the code out for themselves with a mini-challenge.
