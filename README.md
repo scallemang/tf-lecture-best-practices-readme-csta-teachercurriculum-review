@@ -24,3 +24,5 @@ What is this? Why is this important? Why did we do it like this? Can you summari
 
 + Check out [this great resource from Carnegie Mellon University](http://www.cmu.edu/teaching/designteach/teach/instructionalstrategies/lectures.html)
 
++ Asking deliberate questions is important. [Here is a short guide](http://medicine.wright.edu/sites/default/files/page/attachments/QuestionTemplates.pdf) of different types of questions to try to include in your lecture.
+
