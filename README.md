@@ -14,12 +14,14 @@ Lectures make up a significant part of our classes and are important to get righ
 + Try to vary the interactivity of your lecture. You shouldn’t go more than 8-10 minutes without taking a break for students to stop and try the code out for themselves with a mini-challenge.
 + The more you can make your lecture *relevant* the better. That means getting to know your students and then using that information in your lectures. (“Ok, Mikey loves playing soccer. Let’s make an array of all the soccer teams he’s a fan of”). This is especially helpful for students lacking engagement.
 + Checks for understanding
-	+ Talk to a partner and explain.
+	+ Talk to a partner and explain. 
+	+ Share your partner's thoughts with the whole group after the Turn & Talk.
 	+ Use your arm as a meter for how well you understand.
 	+ Thumbs-Up, Thumbs-Down
 	+ Use mini-whiteboards to get whole class participation on questions.
 	+ Cold calling (use this carefully as you don’t want to put students who are struggling on the spot)
-	+ Ask for volunteers to repeat back the concept. 
+	+ Ask for volunteers to repeat back the concept.
+	+ Ask for students to phrase the instructions in their own words before releasing them for independent work. 
 
 + Pause for synthesis at various points in the lecture:
 What is this? Why is this important? Why did we do it like this? Can you summarize this? How could we add to it?
