@@ -41,3 +41,5 @@ lesson. Optional to include key vocab students must use (string, datatype, float
 
 + Asking deliberate questions is important. [Here is a short guide](http://medicine.wright.edu/sites/default/files/page/attachments/QuestionTemplates.pdf) of different types of questions to try to include in your lecture.
 
+
+<a href='https://learn.co/lessons/tf-lecture-best-practices-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
